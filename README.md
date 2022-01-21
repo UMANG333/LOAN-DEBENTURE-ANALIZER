@@ -1,4 +1,4 @@
-# FUTURE READY TALENT INTERNSHIP PROJECT ON= LOAN-DEBENTURE-ANALIZER
+# FUTURE READY TALENT PROJECT ON= LOAN-DEBENTURE-ANALIZER
 HELLO, MY NAME IS UMANG KUMAR AND MY MICROSOFT-FUTURE READY TALENT VIRTUAL INTERNSHIP PROJECT NAME IS = "LOAN DEBENTURE ANALIZER"
 
 When customers invest a lot of time to deal with financial companies for their loan approvals. Loan is approved on the basis of Customer details such as Marital Status, Education Status, Number of Dependents, Income, Credit History Score, Loan Amount. An automated system that can predict eligible loan amount for customers can help them while applying for loan.  Customers can predict their eligible loan amount by filling the customer details on the web app. 
